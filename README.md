@@ -221,4 +221,4 @@ The licensing terms of the individual components apply.
 
 ### Built for Global Sports Academy
 
-**Making attendance smarter, faster and more reliable through technology.**
+**Making attendance smarter, faster and more reliable through technology.*
